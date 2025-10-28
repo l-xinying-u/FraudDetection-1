@@ -1,0 +1,29 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+
+# System files
+.DS_Store
+*.tmp
+*.temp
+
+# Data files - EXCLUDE ALL LARGE FILES
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.rda
+*.pdf
+*.zip
+*.gz
+*.7z
+
+# R Project files
+*.Rproj
+
+# Keep these files (EXCEPTIONS)
+!FDproject_Roger.R
+!README.md
+!*.gitignore
